@@ -114,8 +114,8 @@ Her research interests focus on **graph learning**, **natural language processin
 ---
 
 <div align="center">
-    <img src="assets/Data_mining.jpg" width="15%" margin="10px">
-    <img src="assets/Data_Science.jpg" width="12%" margin="10px">
+    <img src="assets/Data_mining.jpg" width="200" height="260" margin="50px">
+    <img src="assets/Data_Science.jpg" width="200" height="260" margin="50px">
 </div>
 
 # Selected Awards
