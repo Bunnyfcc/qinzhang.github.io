@@ -16,18 +16,18 @@ Her research interests focus on **graph learning**, **natural language processin
 # News
 ---
 
-- **Sep, 2024**: A paper, “EGonc : Energy-based Open-Set Node Classification with substitute Unknowns”, is accepted by NeurIPS, 2024. Congratulations, Zelin!;
-- **Sep, 2024**: A paper, “CHAmbi: A New Benchmark on Chinese Ambiguity Challenges for Large Language Models”, is accepted by EMNLP, 2024. Congratulations, Sihan!;
-- **July, 2024**: A paper, “Open-world Structured Sequence Learning Via Dense Target Encoding”, is accepted by Information Sciences, 2024. Congratulations, Ziqi!;
-- **July, 2024**: A paper, “ReCoS: A Novel Benchmark for Cross-Modal Image-Text Retrieval in Complex Real-Life Scenarios”, is accepted by ACM MM, 2024. Congratulations, Jimeng!;
-- **July, 2024**: A paper, “A Payment Transaction Pre-training Model for Fraud Transaction Detection”, is accepted by CIKM, 2024. Congratulations, Wenxi!;
-- **Aug, 2024**: I will attend and serve as a session chair in IJCAI 2024 in Jeju Island, South Korea. Hope to see you there;
-- **May, 2024**: A paper, “End-to-end approach of multi-grained embedding of categorical features in tabular data”, is accepted by IPM, 2024. Congratulations, Han Liu!;
-- **May, 2024**: A paper, “A fine-grained self-adapting prompt learning approach for few-shot learning with pre-trained language models”, is accepted by KBS, 2024. Congratulations, Xiaojun!;
-- **Apr, 2024**: A paper, “CONC: Complex-noise-resistant Open-set Node Classification with Adaptive Noise Detection”, is accepted by IJCAI, 2024. Congratulations, Jiexin!;
-- **May, 2024**: A paper, “PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness”, is accepted by CVPR, 2024. Congratulations, Siyao!;
-- **Dec, 2023**: Two papers, “ROGPL: Robust Open-Set Graph Learning via Region-based Prototype Learning” and “Multi-level Cross-modal Alignment for Image Clustering”, are accepted by AAAI 2024. Congratulations, Xiaowei and Liping!;
-- **Dec, 2023**: A paper, “Unsupervised multiple choices question answering via universal corpus”, is accepted by ICASSP, 2024. Congratulations, Hao Ge!;
+- **Sep, 2024**: A paper, “EGonc : Energy-based Open-Set Node Classification with substitute Unknowns”, is accepted by NeurIPS, 2024. Congratulations, Zelin!
+- **Sep, 2024**: A paper, “CHAmbi: A New Benchmark on Chinese Ambiguity Challenges for Large Language Models”, is accepted by EMNLP, 2024. Congratulations, Sihan!
+- **July, 2024**: A paper, “Open-world Structured Sequence Learning Via Dense Target Encoding”, is accepted by Information Sciences, 2024. Congratulations, Ziqi!
+- **July, 2024**: A paper, “ReCoS: A Novel Benchmark for Cross-Modal Image-Text Retrieval in Complex Real-Life Scenarios”, is accepted by ACM MM, 2024. Congratulations, Jimeng!
+- **July, 2024**: A paper, “A Payment Transaction Pre-training Model for Fraud Transaction Detection”, is accepted by CIKM, 2024. Congratulations, Wenxi!
+- **Aug, 2024**: I will attend and serve as a session chair in IJCAI 2024 in Jeju Island, South Korea. Hope to see you there.
+- **May, 2024**: A paper, “End-to-end approach of multi-grained embedding of categorical features in tabular data”, is accepted by IPM, 2024. Congratulations, Han Liu!
+- **May, 2024**: A paper, “A fine-grained self-adapting prompt learning approach for few-shot learning with pre-trained language models”, is accepted by KBS, 2024. Congratulations, Xiaojun!
+- **Apr, 2024**: A paper, “CONC: Complex-noise-resistant Open-set Node Classification with Adaptive Noise Detection”, is accepted by IJCAI, 2024. Congratulations, Jiexin!
+- **May, 2024**: A paper, “PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness”, is accepted by CVPR, 2024. Congratulations, Siyao!
+- **Dec, 2023**: Two papers, “ROGPL: Robust Open-Set Graph Learning via Region-based Prototype Learning” and “Multi-level Cross-modal Alignment for Image Clustering”, are accepted by AAAI 2024. Congratulations, Xiaowei and Liping!
+- **Dec, 2023**: A paper, “Unsupervised multiple choices question answering via universal corpus”, is accepted by ICASSP, 2024. Congratulations, Hao Ge!
 
 # Publications
 ---
