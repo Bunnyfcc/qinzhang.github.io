@@ -12,7 +12,12 @@ In the past few years, she has been recognized as Overseas High-Caliber Personne
 
 Her research interests focus on **graph learning**, **natural language processing**, and **open-world machine learning**, etc. She have made contributions to advance graph machine learning methods for solving hard open-world AI problems for real-life applications, including node classification, question answering, anomaly detection, recommender systems and time series clustering. She has published more than 40 research papers in top journals and conferences, including **TPAMI, TKDE, TCYB, NeurIPS, AAAI, IJCAI, CVPR, WWW, ACM MM,** etc., and received several research funds Youth Program of National Natural Science Foundation and General Program of Natural Science Foundation of Guangdong Province. 
 
+# Interests
+---
 
+- **Graph Learning**: Graph out-of-distribution detection and generalization, Grpah open-set learning, Graph robust learning;
+- **NLP**: LLMs, Question Answering, Reasoning.
+  
 # News
 ---
 
