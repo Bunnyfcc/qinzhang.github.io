@@ -85,8 +85,6 @@ Her research interests focus on **graph learning**, **natural language processin
     <div align="center">
     <img src="../assets/1.png" width="70%">
     </div>
-
-    {% bibliography %}
     
 # Fundings
 ---
