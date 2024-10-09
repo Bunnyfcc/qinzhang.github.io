@@ -1,28 +1,31 @@
 ---
 layout: home
-title: "Jingyuan Yang"
+title: "Qin Zhang"
 ---
 
 # About Me
 ---
 
-I am currently an Assistant Professor with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang)) at the [College of Computer Science & Software Engineering](https://csse.szu.edu.cn/), Shenzhen University. I received my Ph.D. in Information and Communication Engineering from Xidian University in 2022, supervised by [Prof. Xinbo Gao](https://see.xidian.edu.cn/faculty/xbgao/). Prior to that, I received my B.E. from the School of Electronic Engineering, Xidian University in 2017. 
-
-My research interest  is computer vision, affective computing and AIGC, currently with emphasis on affective image manipulation. 
-
-- **I am looking for master students who are motivated, self-disciplined and optimistic.** &#10024;
-- **I am also expecting undergraduate students to contact me with your graduation projects.** &#129412;
-- <b>Contact me: jyyang@szu.edu.cn &#129303; </b>
+She is currently an Assistant Professor with the College of Computer Science and Software Engineering, Shenzhen University, China. Before joining Shenzhen University, she was a Senior Researcher with Tencent Technology Co., Ltd. from 2018 to 2021. She received her Ph.D degree in computer science from University of Technology Sydney (UTS), Australia (2018), supervised by Prof. Chengqi Zhang, A.P. Guodong Long and Prof. Peng Zhang, and got her master’s degree from University of Chinese Academy of Science (UCAS), Beijing, China, supervised by Prof. Yingjie Tian. During September 2017 to March 2018, She was fortunate to visit Prof. Wei Wang with Department of Computer Science at University of California, Los Angeles (UCLA).
+In the past few years, she has been recognized as Overseas High-Caliber Personnel (深圳市海外高层次人才), High-level Talent in Nanshan District of Shenzhen (南山区领航人才),
+Her research interests focus on graph learning, natural language processing, and open-world machine learning, etc. She have made contributions to advance graph machine learning methods for solving hard open-world AI problems for real-life applications, including node classification, question answering, anomaly detection, recommender systems and time series clustering. She has published more than 40 research papers in top journals and conferences, including TPAMI, TKDE, TCYB, NeurIPS, AAAI, IJCAI, CVPR, WWW, ACM MM, etc., and received several research funds Youth Program of National Natural Science Foundation and General Program of Natural Science Foundation of Guangdong Province. 
 
 
 # News
 ---
 
-- **2024.08.08**: EmoSet has won the Graphic Open Source Dataset Award (CCF CAD&CG 2024). &#127942;
-- **2024.02.27**: One paper, EmoGen, has been accepted to CVPR 2024. Congrats to Jiawei! &#127881;
-- **2023.11.26**: One paper has won the Best Poster Award (CSIG CEI 2023). &#127942;
-- **2023.11.25**: I served as the Executive Chair of the visual emotion forum in the 2023 CSIG Conference on Emotional Intelligence. &#128084;
-- **2023.07.14**: One paper, EmoSet, has been accepted to ICCV 2023. Congrats to Qirui and Tingting! &#127881;
+- **Sep, 2024**: A paper, “EGonc : Energy-based Open-Set Node Classification with substitute Unknowns”, is accepted by NeurIPS, 2024. Congratulations, Zelin!;
+- **Sep, 2024**: A paper, “CHAmbi: A New Benchmark on Chinese Ambiguity Challenges for Large Language Models”, is accepted by EMNLP, 2024. Congratulations, Sihan!;
+- **July, 2024**: A paper, “Open-world Structured Sequence Learning Via Dense Target Encoding”, is accepted by Information Sciences, 2024. Congratulations, Ziqi!;
+- **July, 2024**: A paper, “ReCoS: A Novel Benchmark for Cross-Modal Image-Text Retrieval in Complex Real-Life Scenarios”, is accepted by ACM MM, 2024. Congratulations, Jimeng!;
+- **July, 2024**: A paper, “A Payment Transaction Pre-training Model for Fraud Transaction Detection”, is accepted by CIKM, 2024. Congratulations, Wenxi!;
+- **Aug, 2024**: I will attend and serve as a session chair in IJCAI 2024 in Jeju Island, South Korea. Hope to see you there;
+- **May, 2024**: A paper, “End-to-end approach of multi-grained embedding of categorical features in tabular data”, is accepted by IPM, 2024. Congratulations, Han Liu!;
+- **May, 2024**: A paper, “A fine-grained self-adapting prompt learning approach for few-shot learning with pre-trained language models”, is accepted by KBS, 2024. Congratulations, Xiaojun!;
+- **Apr, 2024**: A paper, “CONC: Complex-noise-resistant Open-set Node Classification with Adaptive Noise Detection”, is accepted by IJCAI, 2024. Congratulations, Jiexin!;
+- **May, 2024**: A paper, “PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness”, is accepted by CVPR, 2024. Congratulations, Siyao!;
+- **Dec, 2023**: Two papers, “ROGPL: Robust Open-Set Graph Learning via Region-based Prototype Learning” and “Multi-level Cross-modal Alignment for Image Clustering”, are accepted by AAAI 2024. Congratulations, Xiaowei and Liping!;
+- **Dec, 2023**: A paper, “Unsupervised multiple choices question answering via universal corpus”, is accepted by ICASSP, 2024. Congratulations, Hao Ge!;
 
 # Publications
 ---
