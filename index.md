@@ -113,10 +113,10 @@ Her research interests focus on **graph learning**, **natural language processin
 # Teaching
 ---
 
-<table>
+<table style="margin: 0 auto; border-collapse: collapse; border: none;">
   <tr>
-    <td><img src="assets/Data_mining.jpg" width="15%"></td>
-    <td><img src="assets/Data_mining.jpg" width="15%"></td>
+    <td style="padding: 10px; text-align: center; vertical-align: middle; border: none;"><img src="assets/Data_mining.jpg" style="max-width: 300px; height: auto;"></td>
+    <td style="padding: 10px; text-align: center; vertical-align: middle; border: none;"><img src="assets/Data_Science.jpg" style="max-width: 300px; height: auto;"></td>
   </tr>
 </table>
 
