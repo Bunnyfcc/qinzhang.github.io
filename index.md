@@ -91,9 +91,32 @@ Her research interests focus on **graph learning**, **natural language processin
     <img src="../assets/1.png" width="70%">
     </div>
     
-# Fundings
+# Community Services
 ---
-    
+
+- Conference Program Session Chair
+  - IJCAI session chair (2023, 2024)
+- Conference Program Committee/Reviewer
+  - Annual Conference on Neural Information Processing Systems (NeurIPS) (2024)
+  - AAAI Conference on Artificial Intelligence (AAAI) (2023, 2024)
+  - International Joint Conference on Artificial Intelligence (IJCAI) (2023, 2024)
+  - ACL(2023,2024)
+  - ICDM (2023,2024)
+  - EMNLP(2024)
+- Journal Reviewer
+  - TPAMI (2024)
+  - TNNLS (2023, 2024)
+  - Pattern Recognition (PR)  (2024)
+  - IPM(2023, 2024)
+  - KBS(2024)
+ 
+# Teaching
+---
+
+<div align="center">
+    <img src="../assets/6.png" width="70%">
+    <img src="../assets/6.png" width="70%">
+</div>
 
 # Selected Awards
 ---
@@ -104,67 +127,3 @@ Her research interests focus on **graph learning**, **natural language processin
 - **China National Scholarship**, by Ministry of Education of the People's Republic of China, 2015 & 2021
 - **Speaking as the only student representative at the 90th Anniversary Celebration of Xidian University**, 2021
 
-# Hobbies
----
-
-- **English Speech** (First place in the Northwest Region Postgraduate English Speech Contest)
-- **Badminton** (Women's singles champion in the Freshmen Cup at Xidian Univeristy)
-- **Piano** (Amateur six level certificate of piano)
-
-# Group
----
-<center>
-  <h3 style="margin-bottom: 10px;">&#128588; Welcome to join our Emotion Group at VCC! &#128588;</h3>
-</center>
-
-<div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/01.jpg" alt="图片1" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Tingting Ding</h3>
-      <p style="margin: 0px 0;">Ph.D., 2022-present</p>
-      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/02.jpg" alt="图片2" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Jiasheng Chen</h3>
-      <p style="margin: 0px 0;">Master, 2022-present</p>
-      <p style="margin: 0px 0;">Co-advised by Prof. Huang</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/04.jpg" alt="图片3" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Jiawei Feng</h3>
-      <p style="margin: 0px 0;">Master, 2023-present</p>
-    </div>
-  </div>
-  
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/05.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Weibin Luo</h3>
-      <p style="margin: 0px 0;">Master, 2024-present</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/06.jpg" alt="图片5" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Zihuan Bai</h3>
-      <p style="margin: 0px 0;">Master, 2024-present</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-bottom: 10px; display: inline-block; margin-right: 10px;">
-    <img src="../assets/07.jpg" alt="图片4" style="width: 160px; height: 160px; border-radius: 50%;">
-    <div style="text-align: center; font-size: 12px;">
-      <h3 style="margin: 2px 0; font-size: 18px">Rucong Chen</h3>
-      <p style="margin: 0px 0;">Master, 2024-present</p>
-    </div>
-  </div>
-</div>
